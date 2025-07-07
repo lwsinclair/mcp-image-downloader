@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/cced3000-mcp-image-downloader-badge.png)](https://mseep.ai/app/cced3000-mcp-image-downloader)
+
 # MCP Image Downloader
 
 An MCP server that provides tools for downloading and optimizing images. Built using the Model Context Protocol (MCP), this server enables AI assistants to download images from URLs and perform basic image optimization tasks.
